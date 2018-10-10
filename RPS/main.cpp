@@ -26,5 +26,7 @@ int main()
     if (playerch=="Rock" && compch=="Paper") cout << "Looser!\n";
     if (playerch=="Scissors" && compch=="Paper") cout << "You win!\n";
     if (playerch=="Scissors" && compch=="Rock") cout << "Looser!\n";
+    cin.get();
+    cin.get();
     return 0;
 }
