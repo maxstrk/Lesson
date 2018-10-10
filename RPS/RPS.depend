@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1539167126 source:d:\mm\_cpplearn\withgit\rps\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
